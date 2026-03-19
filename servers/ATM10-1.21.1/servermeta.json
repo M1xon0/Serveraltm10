@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/Users/mikol/Desktop/ATM10/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "ATM10 (Minecraft 1.21.1)",
+    "description": "ATM10 Running Minecraft 1.21.1",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "probably-sweat.pol.mcjoin.link:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+    },
+  "neoForge": {
+    "version": "21.0.167"
+  },
+  "untrackedFiles": []
+}
