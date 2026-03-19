@@ -1,3 +1,14 @@
-{
-  "articles": []
-}
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Serwer Info</title>
+  <link>https://github.com/M1xon0/Serveraltm10</link>
+  <description>Aktualizacje serwera</description>
+  <item>
+    <title>v1 by Mixon</title>
+    <link>https://github.com/M1xon0/Serveraltm10</link>
+    <description>Launcher został poprawnie skonfigurowany.</description>
+    <pubDate>Thu, 19 Mar 2026 18:00:00 +0100</pubDate>
+  </item>
+</channel>
+</rss>
